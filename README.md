@@ -4,4 +4,4 @@ This repository is created to allow developers from the Mozilla Developer Networ
 
 Assessments for Review
 1. Mozilla Splash Page - https://mariaringes.github.io/mdnassessments/mozilla-splash-page/
-2. Structuring Planets Table - https://mariaringes.github.io/mdnassessments/structuring-planets-table
+2. Structuring Planets Table - https://mariaringes.github.io/mdnassessments/structuring-planet-data
