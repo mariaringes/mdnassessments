@@ -2,6 +2,23 @@
 
 This repository is created to allow developers from the Mozilla Developer Network to assess the given assessments found at https://developer.mozilla.org/en-US/docs/Learn.
 
-Assessments for Review
-1. Mozilla Splash Page - https://mariaringes.github.io/mdnassessments/mozilla-splash-page/
-2. Structuring Planets Table - https://mariaringes.github.io/mdnassessments/structuring-planet-data
+Completed Assessments
+
+| Section                  	| Type       	| Title                         	| MDN Peer Review                                                                                         	| Code                                                                  	|
+|--------------------------	|------------	|-------------------------------	|---------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------	|
+| Introduction to HTML     	| Skill Test 	| HTML Text Fundamentals        	| https://discourse.mozilla.org/t/assessment-requested-for-html-text-basics-skill-test/96201              	| https://jsfiddle.net/maria_ringes/eus5ftaj/7/                         	|
+|                          	|            	|                               	|                                                                                                         	| https://jsfiddle.net/maria_ringes/gvm9Lur4/10/                        	|
+|                          	|            	|                               	|                                                                                                         	| https://jsfiddle.net/maria_ringes/28dzg7hc/4/                         	|
+| Introduction to HTML     	| Skill Test 	| Creating Hyperlinks           	| https://discourse.mozilla.org/t/assessment-requested-for-html-links-basic-skill-test/96202              	| https://jsfiddle.net/maria_ringes/eus5ftaj/7/                         	|
+|                          	|            	|                               	|                                                                                                         	| https://jsfiddle.net/maria_ringes/gvm9Lur4/10/                        	|
+|                          	|            	|                               	|                                                                                                         	| https://jsfiddle.net/maria_ringes/28dzg7hc/4/                         	|
+| Introduction to HTML     	| Skil Test  	| Advanced Text Formatting      	| https://discourse.mozilla.org/t/assessment-requested-for-html-advanced-html-text-basic-skill-test/96209 	| https://jsfiddle.net/maria_ringes/80ftvh2y/4/                         	|
+|                          	|            	|                               	|                                                                                                         	| https://jsfiddle.net/maria_ringes/9xrjg07L/5/                         	|
+| Introduction to HTML     	| Assessment 	| Structuring a Page of Content 	| https://discourse.mozilla.org/t/assessment-request-for-assessment-structuring-a-page-of-content/96435   	| https://jsfiddle.net/maria_ringes/zk4v2q5n/12/                        	|
+|                          	|            	|                               	|                                                                                                         	|                                                                       	|
+| Multimedia and Embedding 	| Skill Test 	| Images in HTML                	| https://discourse.mozilla.org/t/assessment-request-for-html-images-skill-test-1/98242                   	| https://jsfiddle.net/maria_ringes/quamw51v/12/                        	|
+| Multimedia and Embedding 	| Skill Test 	| Video and Audio Content       	| https://discourse.mozilla.org/t/assessment-request-for-multimedia-and-embedding-skill-test-1/98246      	| https://jsfiddle.net/maria_ringes/5b2u1sjr/35/                        	|
+| Multimedia and Embedding 	| Skill Test 	| Mozilla Splash Page           	| https://discourse.mozilla.org/t/assessment-request-for-assessment-mozilla-splash-page/98348             	| https://mariaringes.github.io/mdnassessments/mozilla-splash-page/     	|
+|                          	|            	|                               	|                                                                                                         	|                                                                       	|
+| HTML Tables              	| Assessment 	| Structuring Planet Data       	| https://discourse.mozilla.org/t/assessment-requested-for-assessment-structuring-planet-data/98352       	| https://mariaringes.github.io/mdnassessments/structuring-planet-data/ 	|
+|                          	|            	|                               	|                                                                                                         	|                                                                       	|
