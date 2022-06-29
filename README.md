@@ -4,7 +4,8 @@ This repository is created to allow developers from the Mozilla Developer Networ
 
 # GitHub Pages
 Mozilla Splash Page - https://mariaringes.github.io/mdnassessments/mozilla-splash-page/
-
+Structuring Planet Data - https://mariaringes.github.io/mdnassessments/structuring-planet-data/
+Biography Page - https://mariaringes.github.io/mdnassessments/biography-page/
 
 # Completed Assessments
 
