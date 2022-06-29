@@ -2,6 +2,10 @@
 
 This repository is created to allow developers from the Mozilla Developer Network to assess the given assessments found at https://developer.mozilla.org/en-US/docs/Learn.
 
+# GitHub Pages
+Mozilla Splash Page - https://mariaringes.github.io/mdnassessments/mozilla-splash-page/
+
+
 # Completed Assessments
 
 ## Introduction to HTML
