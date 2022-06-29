@@ -42,6 +42,5 @@ Biography Page - https://mariaringes.github.io/mdnassessments/biography-page/
 
 | Type       	| Title                         	| MDN Peer Review                                                                                         	| Code                                                                  	|
 |------------	|-------------------------------	|---------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------	|
-| **Assessment** 	| Styling a Biography Page       	| https://discourse.mozilla.org/t/assessment-requested-for-assessment-styling-a-biography-page/99072![image](https://user-images.githubusercontent.com/99675872/176475199-524678ff-5093-415c-9264-18e2ef93494a.png)
-       	| [Task 1](https://mariaringes.github.io/mdnassessments/biography-page/) 	|
+| **Assessment** 	| Styling a Biography Page       	| https://discourse.mozilla.org/t/assessment-requested-for-assessment-styling-a-biography-page/99072       	| [Task 1](https://mariaringes.github.io/mdnassessments/biography-page/) 	|
 
