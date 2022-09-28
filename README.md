@@ -36,8 +36,13 @@ The main url for these assessments can be found at: https://mariaringes.github.i
 
 ## CSS First Steps
 
-| Type           | Title                    | MDN Peer Review                                                                                    | Code                                                                      |
-| -------------- | ------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Assessment** | Styling a Biography Page | https://discourse.mozilla.org/t/assessment-requested-for-assessment-styling-a-biography-page/99072 | [Task 1](https://mariaringes.github.io/mdnassessments/biography-page/)    |
-| **Skill Test** | The Cascade              | https://discourse.mozilla.org/t/assessment-requested-for-skill-test-css-cascade/105974             | [Task 1](https://mariaringes.github.io/mdnassessments/cascade/task1.html) |
-|                |                          |                                                                                                    | [Task 2](https://mariaringes.github.io/mdnassessments/cascade/task2.html) |
+| Type           | Title                    | MDN Peer Review                                                                                    | Code                                                                            |
+| -------------- | ------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Assessment** | Styling a Biography Page | https://discourse.mozilla.org/t/assessment-requested-for-assessment-styling-a-biography-page/99072 | [Task 1](https://mariaringes.github.io/mdnassessments/biography-page/)          |
+| **Skill Test** | The Cascade              | https://discourse.mozilla.org/t/assessment-requested-for-skill-test-css-cascade/105974             | [Task 1](https://mariaringes.github.io/mdnassessments/cascade/task1.html)       |
+|                |                          |                                                                                                    | [Task 2](https://mariaringes.github.io/mdnassessments/cascade/task2.html)       |
+| **Skill Test** | The Cascade              | https://discourse.mozilla.org/t/assessment-requested-for-skill-test-css-cascade/105974             | [Task 1](https://mariaringes.github.io/mdnassessments/css-selectors/task1.html) |
+|                |                          |                                                                                                    | [Task 2](https://mariaringes.github.io/mdnassessments/css-selectors/task2.html) |
+|                |                          |                                                                                                    | [Task 3](https://mariaringes.github.io/mdnassessments/css-selectors/task3.html) |
+|                |                          |                                                                                                    | [Task 4](https://mariaringes.github.io/mdnassessments/css-selectors/task4.html) |
+|                |                          |                                                                                                    | [Task 5](https://mariaringes.github.io/mdnassessments/css-selectors/task5.html) |
