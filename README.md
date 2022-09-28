@@ -51,3 +51,6 @@ The main url for these assessments can be found at: https://mariaringes.github.i
 |                |               |                                                                                          | [Task 3](https://mariaringes.github.io/mdnassessments/css-selectors/task3.html) |
 |                |               |                                                                                          | [Task 4](https://mariaringes.github.io/mdnassessments/css-selectors/task4.html) |
 |                |               |                                                                                          | [Task 5](https://mariaringes.github.io/mdnassessments/css-selectors/task5.html) |
+| **Skill Test** | Box Model     | https://discourse.mozilla.org/t/assessment-requested-for-skill-test-css-selectors/105975 | [Task 1](https://mariaringes.github.io/mdnassessments/box-model/task1.html)     |
+|                |               |                                                                                          | [Task 2](https://mariaringes.github.io/mdnassessments/box-model/task2.html)     |
+|                |               |                                                                                          | [Task 3](https://mariaringes.github.io/mdnassessments/box-model/task3.html)     |
