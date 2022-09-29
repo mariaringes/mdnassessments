@@ -56,4 +56,3 @@ The main url for these assessments can be found at: https://mariaringes.github.i
 |                |                      |                                                                                          | [Task 3](https://mariaringes.github.io/mdnassessments/box-model/task3.html)           |
 | **Skill Test** | Background & Borders | https://discourse.mozilla.org/t/assessment-requested-for-skill-test-css-selectors/105975 | [Task 1](https://mariaringes.github.io/mdnassessments/backgrounds-borders/task1.html) |
 |                |                      |                                                                                          | [Task 2](https://mariaringes.github.io/mdnassessments/backgrounds-borders/task2.html) |
-|                |                      |                                                                                          | [Task 3](https://mariaringes.github.io/mdnassessments/backgrounds-borders/task3.html) |
