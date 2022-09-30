@@ -5,7 +5,8 @@
     <title>The Cascade Layer Task</title>
 
     <style>
-      @layer yellow, purple;
+      @layer yellow, green, purple;
+
       @layer yellow {
         #outer div ul .nav a {
           padding: 5px;
@@ -16,6 +17,11 @@
       @layer purple {
         div div li a {
           color: rebeccapurple;
+        }
+      }
+      @layer green {
+        a {
+          color: lightgreen;
         }
       }
     </style>
